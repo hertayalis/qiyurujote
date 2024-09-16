@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qiyurujote.pages.dev/sitemap.xml
